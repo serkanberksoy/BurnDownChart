@@ -1,6 +1,8 @@
 # BurnDownChart
 A Burn-Down Chart Created with Excel Macro, draws more accurate burndown.
 
+![burndown](https://cloud.githubusercontent.com/assets/3882031/10069760/e0d6b808-62b6-11e5-8b64-4c1252f3ed54.png)
+
 Usage:
 
 - Enable Macros: Enable macros when opening this excel file. This is required for calculations.
